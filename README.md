@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in:
   - Software development, especially web development with Django, Python, and JavaScript.
-  - Distributed systems and cloud computing.
+  - cloud computing.
   - Building eCommerce platforms and scalable web applications.
 
 - 🌱 I’m currently learning:
