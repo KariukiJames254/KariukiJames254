@@ -19,7 +19,7 @@
 
 - 📫 How to reach me:
   - You can email me at: [jmwangikariuki97@gmail.com]
-  - Or reach me via LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/jameskariuki)
+  - Or reach me via LinkedIn:[My LinkedIn Profile](https://www.linkedin.com/in/james-kariuki-13a56225a/)
 
 - 😄 Pronouns: He/Him
 
