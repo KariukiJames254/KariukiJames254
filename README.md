@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontAlignY=50&animation=fadeIn](https://capsule-render.vercel.app/render?type=waving&color=0f172a&height=250&section=header&text=James%20Kariuki&fontSize=50&fontAlignY=40&desc=Systems%20Architect%20|%20HRMS%20|%20Ecommerce&descSize=20&descAlignY=60&fontColor=ffffff)" alt="Profile Banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm James Kariuki
 
@@ -77,11 +73,27 @@ Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and
 
 ### 💻 Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 💻 Framework
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 💻 Data Visualization
+
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### 💻 Mobile App Development
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats & Activity
 
