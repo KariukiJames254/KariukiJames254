@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm James Kariuki
 
-### A passionate developer from Kenya
+### A passionate developer from Nairobi, Kenya
 
 </div>
 
