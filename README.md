@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm James Kariuki
 
-### A passionate developer from Nairobi, Kenya
+### A passionate developer from Kenya
+
+<img src="https://github.com/KariukiJames254.png" alt="James Kariuki" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
@@ -61,7 +63,7 @@ Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/KariukiJames254/)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://linkedin.com/in/jameskariuki)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://instagram.com/jameskariuki527)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0798813634)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KariukiJames254)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://linkedin.com/in/jameskariuki)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://instagram.com/jameskariuki527)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0798813634)
 
 </div>
 
@@ -99,15 +101,15 @@ Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and
 
 <div align="center">
 
-<!-- GitHub Streak Stats: GitHub username required -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KariukiJames254&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<!-- GitHub Stats Card: GitHub username required -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KariukiJames254&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<!-- GitHub Trophy: GitHub username required -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KariukiJames254&theme=onedark&column=7&margin-w=15&margin-h=15)
 
-<!-- Visitor Count Badge: GitHub username required -->
+![Visitor Count](https://komarev.com/ghpvc/?username=KariukiJames254&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-<!-- Top Skills Card: GitHub username required -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KariukiJames254&layout=compact&theme=radical&langs_count=10)
 
 </div>
 
@@ -119,6 +121,6 @@ Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=KariukiJames254&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
