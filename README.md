@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontAlignY=50&animation=fadeIn" alt="Profile Banner" width="100%" />
+  <img src="[https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontAlignY=50&animation=fadeIn](https://capsule-render.vercel.app/render?type=waving&color=0f172a&height=250&section=header&text=James%20Kariuki&fontSize=50&fontAlignY=40&desc=Systems%20Architect%20|%20HRMS%20|%20Ecommerce&descSize=20&descAlignY=60&fontColor=ffffff)" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
