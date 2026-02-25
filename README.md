@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontAlignY=50&animation=fadeIn" alt="Profile Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm James Kariuki
 
