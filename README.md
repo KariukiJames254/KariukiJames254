@@ -38,7 +38,7 @@ Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and
 
 | Company | Position | Duration |
 |---|---|---|
-| Spin MObiles LLC | Intern | 2024-06 - 2024-08 |
+| Spin Mobiles LLC | Intern | 2024-06 - 2024-08 |
 
 ### Intern at Spin MObiles LLC
 
