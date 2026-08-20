@@ -18,29 +18,7 @@ Experienced in architecting production platforms, optimizing infrastructure, and
 |---|---|---|
 | Nila Pharmaceutical Ltd | Lead Software Engineer | 2025-01 - Present |
 
-### Lead Software Engineer at Nila Pharmaceutical Ltd
-*Kenya*
-
-Lead Software Engineer at Nila Pharmaceuticals Ltd responsible for designing and delivering core digital systems. Built and deployed the company’s e-commerce platform and currently leading development of an integrated HRMS covering payroll, attendance tracking, and leave management, with a focus on scalability, security, and operational efficiency.
-
 **Technologies:** Python, Django, HTML5, Postgresql, NodeJs, Tailwind css, CSS3, JavaScript (ES6+), React Native
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Kabarak UNiversity | Bachelor of Business Management and information Technology |  -  |
-
-### Bachelor of Business Management and information Technology in Computer Science
-*Kabarak UNiversity*
-
-## 💼 Internships
-
-| Company | Position | Duration |
-|---|---|---|
-| Spin Mobiles LLC | Intern | 2024-06 - 2024-08 |
-
-### Intern at Spin MObiles LLC
 
 ## 📞 Contact & Links
 
